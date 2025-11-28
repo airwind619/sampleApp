@@ -1,0 +1,55 @@
+{
+  "tournaments": [
+    {
+      "id": 1,
+      "name": "BDFA Super Division",
+      "season": "2025",
+      "teams": [
+        "FC Bengaluru",
+        "Kickstart FC"
+      ],
+      "nextMatch": {
+        "home": "FC Bengaluru",
+        "away": "Kickstart FC",
+        "time": "Tomorrow 4:30 PM"
+      }
+    }
+  ],
+  "matches": [
+    {
+      "id": 101,
+      "home": "FC Bengaluru",
+      "away": "Kickstart FC",
+      "status": "upcoming",
+      "time": "Tomorrow 4:30 PM"
+    },
+    {
+      "id": 102,
+      "home": "Kickstart FC",
+      "away": "FC Bengaluru",
+      "status": "past",
+      "time": "2025-11-20 16:30",
+      "score": "2-1"
+    }
+  ],
+  "club": {
+    "name": "FC Bengaluru",
+    "players": [
+      {
+        "name": "Arjun",
+        "pos": "FW",
+        "number": 9
+      },
+      {
+        "name": "Karan",
+        "pos": "GK",
+        "number": 1
+      },
+      {
+        "name": "Rahul",
+        "pos": "MF",
+        "number": 8
+      }
+    ]
+  }
+}
